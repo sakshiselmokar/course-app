@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/sakshiselmokar/course-app.git
 
 2.**Navigate to Project Directory:**
 cd your-repository
