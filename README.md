@@ -1,3 +1,28 @@
+# My React Application
+
+Welcome to my React application! This project implements a course listing page, course details page, and a student dashboard. Below are instructions on how to run the application and navigate its features.
+
+## Features
+
+- Course Listing Page: Displays a list of available courses.
+- Course Details Page: Shows detailed information about a selected course.
+- Student Dashboard: Provides an overview of enrolled courses and allows marking courses as completed.
+
+## Technologies Used
+
+- React.js
+- Redux for state management
+- React Router for routing
+- API integration (simulated backend using fetch)
+
+## Setup
+
+To run this project locally, follow these steps:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/sakshiselmokar/course-app.git
+   
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +93,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
